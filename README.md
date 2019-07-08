@@ -1,0 +1,2 @@
+# AML-Fraud-Detection
+Predicting Fraud using Synthetic Transaction Data generated using PaySim Simiulator -Kaggle Competition Problem
